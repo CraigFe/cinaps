@@ -13,6 +13,11 @@ let foo_string = foo_string
 (*$*)
 
 
+(*$ #use "imported.cinaps";;
+    let () = List.iter to_print ~f:printf
+*)
+(*$*)
+
 (*$ let blah () = printf "42"
     let foo  () = printf "1"
     let bar  () = printf "2" $*)

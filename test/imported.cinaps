@@ -1,0 +1,3 @@
+(* -*- mode: tuareg -*- *)
+
+let to_print = [ "from"; "included.cinaps" ]
